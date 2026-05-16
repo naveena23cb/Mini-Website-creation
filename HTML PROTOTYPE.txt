@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+
+    </head>
+
+    <body>
+        <center>
+        <h1>Upcoming Events 📅</h1>
+        <p>Don't miss any of your important events. Stay updated</p>
+        </center>
+        <hr>
+        <p>
+            Event management is the comprehensive process of planning, executing, and evaluating professional or social gatherings, involving tasks like venue selection, budgeting, and logistics coordination. It typically follows five key stages: Research & Conceptualization, Design & Planning, Pre-Event Coordination, On-site Execution, and Post-Event Evaluation. Professionals use tools like an Event Planning Organizational Chart to delegate tasks and Event Management Flow Charts to visualize the entire process at a glance.
+        
+        </p>
+        <center>
+        <img src="img/event1.png">
+        <h1>Photo Gallery</h1>
+        <h2>Free Entry|Free Food|Pets are Not Allowed</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab soluta tenetur magnam numquam est aliquid expedita maiores repudiandae qui. Odio quisquam unde totam veritatis, reprehenderit praesentium eius in dicta sequi excepturi quaerat qui modi error minima sint, harum consequatur, ducimus fugiat iure voluptate atque delectus dolores maxime. Dolor, quam sed.</p>
+        </center>
+
+        <center>
+            <img src="img/event2.png">
+            <h1>
+                <a href="https://www.myntra.com">Fasion Store</a>
+            </h1>
+            <h2>Free Entry|Free Food|Pets are Not Allowed</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab soluta tenetur magnam numquam est aliquid expedita maiores repudiandae qui. Odio quisquam unde totam veritatis, reprehenderit praesentium eius in dicta sequi excepturi quaerat qui modi error minima sint, harum consequatur, ducimus fugiat iure voluptate atque delectus dolores maxime. Dolor, quam sed.</p>
+        </center>
+        <hr>
+        <center>
+
+        <h1>Contact</h1>
+        <h2>+91 9012345678 | eventcollab@gmail.com</h2>
+        <p>5th street Garland Park, Chennai, 645940</p>
+        </center>
+
+    </body>
+
+</html>
 
